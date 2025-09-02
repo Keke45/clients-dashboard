@@ -1,5 +1,5 @@
 import React from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
+import { motion, AnimatePresence, color } from 'framer-motion'
 import { X, Plus, Trash2, MailCheck, Circle } from 'lucide-react'
 
 const glass = 'bg-white/10 backdrop-blur-md border border-white/20 shadow-glow'
